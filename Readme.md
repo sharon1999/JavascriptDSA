@@ -1,7 +1,7 @@
-#Learning DSA usign Javascript
+# Learning DSA usign Javascript
 ![image](https://user-images.githubusercontent.com/49652785/211250215-35dfa08e-e9cf-4be0-9ca2-f5df83b533b5.png)
 
-#Linked List - Under the hood
+# Linked List - Under the hood
 
 ![image](https://user-images.githubusercontent.com/49652785/211250607-fcf9a1b1-e9b8-4815-aa28-16dc416dcefe.png)
 
